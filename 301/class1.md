@@ -1,6 +1,6 @@
 # ***Overview***
 
-It's importanant to understand component-based architecture because it will make coding so much easier.  It allows for a pseudo-plug and play method to be used when coding, making the development process much smoother and time saving.
+It's important to understand component-based architecture because it will make coding so much easier.  It allows for a pseudo-plug and play method to be used when coding, making the development process much smoother and time saving.
 
 ## ***Class 1 Assignment***
 
